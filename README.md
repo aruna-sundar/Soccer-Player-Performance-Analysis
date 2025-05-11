@@ -16,7 +16,7 @@ Football clubs and talent scouts face challenges in identifying undervalued high
 ---
 
 ## 📂 Data  
-[🔗 Link to data](#)  
+[🔗 Link to data](https://github.com/aruna-sundar/Soccer-Player-Performance-Analysis/blob/main/Fifa%20Olympics%20dataset.xlsx)  
 
 ---
 
