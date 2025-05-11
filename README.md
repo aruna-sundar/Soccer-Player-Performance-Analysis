@@ -1,4 +1,4 @@
-# ⚽ “Soccer Player Analysis”
+# ⚽ Soccer Player Analysis
 
 ## 🧩 Business Problem  
 
@@ -59,4 +59,6 @@ The dashboard aims to evaluate players’ overall performance and potential base
 ---
 
 ## 🖼 Dashboards  
+![image alt](https://github.com/aruna-sundar/Soccer-Player-Performance-Analysis/blob/28b368fef73c431cfd59183b3b840eb68532cbdd/Soccer%20Player%20Performance%20Dashboard.png)
+
 ![image alt](https://github.com/aruna-sundar/Soccer-Player-Performance-Analysis/blob/ed91eaf7ec74821edb3043beebd4be2f2d9a83fe/FIFA%20Olymbics%20Dashboard.png)
