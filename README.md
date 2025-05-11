@@ -59,4 +59,5 @@ The dashboard aims to evaluate players’ overall performance and potential base
 ---
 
 ## 🖼 Dashboards  
-[📸 Dashboard screenshots](#)
+[📸 Dashboard screenshots](https://github.com/aruna-sundar/Soccer-Player-Performance-Analysis/blob/main/FIFA%20Olymbics%20Dashboard.png)
+()
